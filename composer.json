@@ -1,5 +1,5 @@
 {
-  "name": "ristek/sso",
+  "name": "sibiz/sso",
   "type": "library",
   "description": "Utility library for authentication with SSO-UI",
   "keywords": ["authentication"],
