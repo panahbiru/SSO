@@ -1,5 +1,5 @@
 {
-  "name": "sibiz/sso",
+  "name": "panahbiru/sso",
   "type": "library",
   "description": "Utility library for authentication with SSO-UI",
   "keywords": ["authentication"],
